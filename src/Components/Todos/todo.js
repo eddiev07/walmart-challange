@@ -1,5 +1,3 @@
-import React from "react";
-
 function Todo({todo, deleteTodo}) {
 
     return (
