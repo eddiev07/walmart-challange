@@ -1,6 +1,6 @@
 import {useState} from "react";
 
-function TodoForm({todos, setTodos}) {
+const TodoForm = ({ todos, setTodos }) => {
     const [value,
         setValue] = useState("");
 
