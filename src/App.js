@@ -1,9 +1,6 @@
 import {Routes, Route} from 'react-router-dom'
 
-import TodosView from './Components/Todos/TodosView';
-import ApiFetcherView from './Components/API/ApiFetcher';
-import CounterView from './Components/Counter/CounterView';
-import NavBar from './Components/Utils/Navbar';
+import {TodosView, ApiFetcherView, CounterView, NavBar}from './Components/index';
 
 function App() {
     return (
