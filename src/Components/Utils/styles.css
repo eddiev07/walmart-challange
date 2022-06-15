@@ -1,0 +1,11 @@
+.navbarUl{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+        background-color: lightgray;
+        border: solid;
+        border-radius: 5px;
+    }
