@@ -1,5 +1,4 @@
-function Todo({todo, deleteTodo}) {
-
+const Todo = ({todo, deleteTodo}) =>{
     return (
         <div className="todo">
             <div onClick={() => {
