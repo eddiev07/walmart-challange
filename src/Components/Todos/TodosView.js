@@ -1,6 +1,6 @@
 import {useState} from 'react'
 
-import Todo from "./todo";
+import Todo from "./Todo";
 import TodoForm from "./TodosForm";
 
 const TodosView = () => {
